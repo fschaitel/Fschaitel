@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 🌧️ Atualmente aprendendo Cloud computing 
 
-🐁 Linguagens da programação: Python, Java e R 
+🐁 Aprendendo as Linguagens da programação: Python, Java e R 
