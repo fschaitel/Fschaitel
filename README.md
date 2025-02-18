@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 🐈😸😺🐙🐁☁️🌨️🌥️🌧️🎭🎮🖥️💻📋📚
 -->
 
-🐈 Aqui é o meu espaço para compartilhar meus projetos pessoais e acadêmicos
+🐈 Welcome to my space for sharing personal and academic projects.
 
-🤖 Estou atualmente desenvolvendo chatBots e Agentes 
+🤖 Currently developing chatbots and AI agents.
 
-🌧️ Atualmente aprendendo Cloud computing 
+🌧️ Exploring cloud computing.
 
-🐁 Aprendendo as Linguagens da programação: Python, Java e R 
+🐁 Learning programming languages: Python, Java, and R.
