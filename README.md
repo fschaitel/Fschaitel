@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🐈😸😺🐙🐁☁️🌨️🌥️🌧️🎭🎮🖥️💻📋📚
 -->
+
+🐈 Aqui é o meu espaço para compartilhar meus projetos pessoais e acadêmicos
+🤖 Estou atualmente desenvolvendo chatBots e Agentes 
+🌧️ Atualmente aprendendo Cloud computing 
+🐁 Linguagens da programação: Python, Java e R 
