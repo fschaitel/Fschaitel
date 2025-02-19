@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 🌧️ Exploring cloud computing.
 
-🐁 Learning programming languages: Python, Java, and R.
+🐁 Learning programming languages: Python, Java, R, HTML e JS.
