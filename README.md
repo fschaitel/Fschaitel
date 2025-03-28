@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 🤖 Currently developing chatbots and AI agents.
 
-🌧️ Exploring cloud computing.
+🧠 Exploring machine learning and developing interactive web application interfaces for the classroom.
 
-🐁 Learning programming languages: Python, Java, R, HTML e JS.
+🐁 Learning programming languages: Python, SQL, R, Java, HTML, CSS e JS.
+
+🎓 Studying Data Analysis and System Development at Belas Artes SP, with a background as an art educator.
